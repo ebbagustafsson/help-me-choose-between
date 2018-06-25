@@ -1,9 +1,11 @@
 body {
+  background-color: #C4E3CB;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   margin-top: 150px;
+  color: #6A9C78;
 }
 
 h1 {
@@ -38,4 +40,16 @@ input {
   justify-content: center;
   align-items: center;
   font-size: 35px;
+}
+
+button {
+  background: #6A9C78;
+  border-radius: 30px;
+  width: 70px;
+  height: 30px;
+  font-size: 12px;
+  border: none;
+  letter-spacing: 1px;
+  font-weight: normal;
+  color: #F9F8ED;
 }
